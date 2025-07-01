@@ -1,4 +1,4 @@
-# Mobile Price Prediction using Machine Learning
+# Mobile Price Prediction
 
 This project is a machine learning model designed to accurately predict the price of mobile phones based on their features and specifications. By leveraging a real-world dataset, this model provides a practical application of regression analysis to solve a common business problem. The project follows an end-to-end machine learning workflow, from data exploration and preprocessing to model training and evaluation.
 
